@@ -2,3 +2,7 @@ build/
 lib/*.jar
 target
 samples/scala-play2/logs
+.project
+.classpath
+.settings
+.cache
